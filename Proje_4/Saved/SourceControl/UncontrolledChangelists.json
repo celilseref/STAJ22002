@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/Blueprint_Props/pubg_helmet.uasset",
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/Blueprint_Props/pubg_basecolor.uasset",
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/Blueprint_Props/Material__25.uasset",
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/Blueprint_Props/pubg_normal.uasset",
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2R/SY5X4RJLK5287CIWBWYS1J.uasset",
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/Blueprint/Helmet.uasset",
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/Blueprint/BP_Light.uasset",
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/Users/celil/Documents/Unreal Projects/Proje_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/LT/U2V7QPYZQQ1D39XKUJCN53.uasset"
+			]
+		}
+	]
+}
